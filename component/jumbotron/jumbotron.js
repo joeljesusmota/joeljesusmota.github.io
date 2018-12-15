@@ -7,7 +7,7 @@ document.write(`
  <h4 class="display-4">${title}</h4>
  <p class="lead">${p}</p>
  <hr class="my-4">
- <p>${p1}</p>
+ <center><p>${p1}</p></center>
  <p>Instagram: 
    <a 
     href="https://www.instagram.com/codeteamrd/?utm_source=ig_profile_share&igshid=rp4vzpgesk50" target="_blank">
