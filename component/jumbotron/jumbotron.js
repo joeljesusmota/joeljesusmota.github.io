@@ -1,3 +1,4 @@
+
 var title="CodeTeamRD";
 var p="Equipo de jovenes emprendedores en el mundo del desarrollo de software, trabajamos para todos los OS de dispositivos moviles, escritorio y web.<hr>Correo: <b>codeteamrd@outlook.com</b>";
 var p1="";
