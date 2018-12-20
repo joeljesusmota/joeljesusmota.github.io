@@ -1,0 +1,58 @@
+.p-w-b {
+    color: white;
+    background-color: black;
+    width:100px;
+    margin: auto;
+  }
+
+.p-b {
+    color: black;
+    width:200px;
+    margin: auto;
+  }
+
+  .p-g {
+      color: rgb(110, 109, 109);
+      margin: auto;
+    }
+
+
+    /* unvisited link 
+  a:link {
+    color: red;
+  }
+
+  /* visited link 
+  a:visited {
+    color: green;
+  }
+
+  /* mouse over link 
+  a:hover {
+    color: hotpink;
+  }
+
+  /* selected link 
+  a:active {
+    color: blue;
+  }*/
+
+  ul.a {
+  list-style-type: circle;
+}
+
+.footer-g {
+    background-color:#1a73e8 ;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .footer-o {
+    background-color:rgb(102, 102, 102);
+    padding: 50px;
+    text-align: center;
+  }
+
+
+
+  

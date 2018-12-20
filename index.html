@@ -6,24 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Home - Joel Mota</title>
+    <title>Joel Mota</title>
     <link rel="icon" type="image/png" href="../img/panda1.png" sizes="16x16">
-
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-        crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.3/darkly/bootstrap.min.css" />
-
+    <link rel="stylesheet" type="text/css" href="/main.css" />
 </head>
 
 <body>
-
     <!--navbar-home-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="../index.html"><img src="../img/panda1.png" width="30" height="30"> <b>Joel</b></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-h3="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
@@ -41,11 +35,14 @@
                 <li class="nav-item">
                     <a class="nav-link" href="../pages/gallery.html">Gallery</a>
                 </li>
-
-        </div>
     </nav>
-    <!--/navbar-home-->
 
+    </div>
+
+    <!--/navbar-home-->
+    <div class="container-fluid">
+
+    </div>
     <div class="alert alert-dismissible alert-warning">
         <!--button type="button" class="close" data-dismiss="alert">&times;</button>-->
         <h4 class="alert-heading">Warning!</h4>
@@ -54,7 +51,7 @@
 
     <div class="container">
         <!--carousel-->
-        <div id="carouselExampleIndicators" class="carousel item" data-ride="carousel">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -80,38 +77,72 @@
             </a>
         </div>
         <!--/carousel-->
+
+
+
+        <hr />
+        <button href="/pages/aboutMe.html" onclick="location.href=`/pages/aboutMe.html`" type="button" class="btn btn-outline-info  btn-lg">About Me</button>
+        <hr />
+
+    </div>
+    <!--/container-->
+
+    <div class="container-fluid">
+        <footer class="footer-o">
+            <h3 class=""><b>Links of interest</b></h3>
+            <hr />
+
+            <div class="row">
+                <div class="col-sm">
+                    <a href="https://www.icd.edu.do/"><img src="/img/icd.png" style="height: 100px; width: 250px;"><br>
+                        <p>Instituto de Capacitacipon Dominicano</p>
+                    </a>
+                </div>
+                <div class="col-sm">
+                    <a href="https://aulavirtual.ctc.gob.do/"><img src="/img/ctc.png" style="height: 100px; width: 200px;">
+                        <br>
+                        <p>Centros Tecnológicos Comunitarios</p>
+                    </a>
+                </div>
+                <div class="col-sm">
+                    <a href="https://github.com/xamarinuniverse/XamarinUniversalLibrary"><img src="/img/xu.jpg" style="height: 100px; width: 100px;"><br>
+                        <p>Open Source Community</p>
+                    </a>
+                </div>
+            </div>
+
+
+        </footer>
     </div>
 
-    <div class="container">
-        <hr />
-        <a href="/pages/aboutMe.html" type="button" class="btn btn-primary btn-lg">About Me</a>
-        <hr />
+    <div class="container-fluid">
+        <footer class="footer-g">
+
+            <h2><b>CodeTeamRD</b></h2>
+            <hr>
+            <center>
+                <p>Equipo de jovenes emprendedores, programadores de software cuyo fin es solucionar problemas en sentido general, creando sistemas informaticos con precios razonables.
+                    <hr>
+                </p>
+            </center>
+            <p>Correo: <b>codeteamrd@outlook.com</b></p>
+            <p>Instagram:
+                <a href="https://www.instagram.com/codeteamrd/?utm_source=ig_profile_share&igshid=rp4vzpgesk50" target="_blank">
+                    <b> @codeteamrd</b>
+                </a>
+            </p>
+
+        </footer>
     </div>
+
     <script src="component/jumbotron/jumbotron.js"></script>
 
-    <!--div class="jumbotron">
 
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
 
-        <div class="row">
-            <div class="col-sm">
-                <label class="primary">Menu</label>
-                <ul>
-                    <li><a href="../index.html">Home</a></li>
-                    <li><a href="../pages/blog.html">Blog</a></li>
-                    <li><a href="../pages/gallery.html">Gallerry</a></li>
-                    <li><a href="../pages/aboutMe.html">About Me</a></li>
-                </ul>
-            </div>
-            <div class="col-sm">
-                <label>klk</label>
-            </div>
-            <div class="col-sm">
-                <label>klk</label>
-
-            </div>
-        </div>
-
-    </div-->
 
 </body>
 
