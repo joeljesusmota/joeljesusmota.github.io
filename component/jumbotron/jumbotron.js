@@ -5,14 +5,14 @@ document.write(`
             <div class="row">
                 <div class="col-sm">
                     <img src="../img/panda1.png" width="30" height="30"><b> Joel Mota</b>
-                    <p></p> 
+                    <p></p>
                     <p>© Copyright 2018 - 2019</p>
                     <p></p> 
                 </div>
                 <div class="col-sm">
                     <p><b>Menu</b></p>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item"><a href="..index.html">Home</a></li>
+                        <li class="list-group-item"><a href="../index.html">Home</a></li>
                         <li class="list-group-item"><a href="../pages/aboutMe.html">About Me</a></li>
                         <li class="list-group-item"><a href="../pages/blog.html">Blog</a></li>
                         <li class="list-group-item"><a href="../pages/gallery.html">Gallery</a></li>
@@ -39,6 +39,11 @@ document.write(`
                     <a href="https://do.linkedin.com/in/joel-jes%C3%BAs-mota-79b058156" target="_blank"><img src="/img/ll.png" style="height: 40px; width: 40px;"></a>
                     <a href="https://www.facebook.com/profile.php?id=100009707984923" target="_blank"><img src="/img/fl.png" style="height: 40px; width: 40px;"></a>
                      
+                    </center>
+
+                    <p></p> 
+                    <center>
+                     <a href="" class="to-top">UP</a>
                     </center>
                 </div>
             </div>

@@ -54,9 +54,20 @@
 
     <div class="container">
 
+    <nav id="navbar-example2" class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="Myprofile">My profile</a>
+  <ul class="nav nav-pills">
+    <li class="nav-item">
+      <a class="nav-link" href="#Competencies">Competencies</a>
+    </li>
+  </ul>
+</nav>
+
+<div data-spy="scroll" data-target="#navbar-example2" data-offset="0">
+
         <!--Presentacion-card-->
         <div class="bg-primary card mb-3">
-            <h3 class="card-header">Presentacion</h3>
+            <h3 class="card-header" id="Myprofile">Presentacion</h3>
             <div class="card-body">
                 <h5 class="card-title">Joel Jesus Mota</h5>
                 <h6 class="card-subtitle text-muted">Junior software developer</h6>
@@ -101,7 +112,7 @@
 
         </div>
         <!--/Presentacion-card-->
-
+        
         <!--Competencies-card-->
 
         <script>/*
@@ -141,7 +152,7 @@
     */</script>
 
         <div class="card bg-primary mb-3">
-            <h3 class="card-header">Competencies</h3>
+            <h3 class="card-header" id="Competencies">Competencies</h3>
             <div class="card-body">
                 <h6 class="card-subtitle text-muted">the following graphics are to show you my level of mastery of
                     different languages, frameworks and technologies in general.</h6>
@@ -209,6 +220,10 @@
                                     <div class="card-footer text-muted">
                                     </div>
         </div>
+
+        
+    </div><!--/scroll-->
+
         <!--/Competencies-card-->
     </div>
 
