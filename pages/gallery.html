@@ -5,22 +5,20 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-        crossorigin="anonymous"></script>
-    <link rel="stylesheet" type="text/css" media="screen" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.3/darkly/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <title>Gallery - Joel Mota</title>
-    <link rel="icon" type="image/png" href="../img/panda1.png" sizes="16x16">
+
+    <link rel="stylesheet" type="text/css" href="../styles/bootstrap-4.3.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../styles/bootswatch-4.1.3-darkly/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="../main.css" />
+    <link rel="icon" type="image/png" href="../img/panda1.png" sizes="16x16">
 </head>
 
 <body>
 
     <!--navbar-home-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="../index.html"><img src="../img/panda1.png" width="30" height="30"> <b>Joel</b></a>
+        <a class="navbar-brand" href="../index.html"><img src="../img/panda1.png" width="30" height="30">
+            <b>Joel</b></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -32,7 +30,7 @@
                     <a class="nav-link" href="../index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../pages/aboutMe.html">About Me</a>
+                    <a class="nav-link" href="../pages/about.html">about</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="../pages/blog.html">Blog</a>
@@ -40,15 +38,26 @@
                 <li class="nav-item active">
                     <a class="nav-link" href="../pages/gallery.html">Gallery</a>
                 </li>
-                
+
         </div>
     </nav>
     <!--/navbar-home-->
 
     <div class="container">
-        <center><img style="height: 350px; width: 330px;" src="../img/construccion.jpg"></center>
+        <img style="height: 350px; width: 330px;" src="../img/construccion.jpg">
     </div>
     <script src="../component/jumbotron/jumbotron.js"></script>
+
+    <!-- script -->
+    <div>
+        <!-- BootstrapScript -->
+
+        <script src="styles/bootstrap-4.3.1-dist/js/jquery-3.3.1.slim.min.js"></script>
+        <script src="styles/bootstrap-4.3.1-dist/js/popper.min.js"></script>
+        <script src="styles/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+
+    </div>
+    <!-- /script -->
 </body>
 
 </html>

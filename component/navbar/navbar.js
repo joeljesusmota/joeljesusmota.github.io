@@ -1,8 +1,8 @@
 var URLactual = window.location;
 
-if(URLactual=="pages/gallery.html")
+if(URLactual=="file:///C:/JJ/joeljesusmota.github.io/pages/blog.html")
 {
-    document.alert("toy en galeuy");
+    document.write("estoy en blog");
 }else{
-    document.alert("home");
+    document.write("home");
 }
