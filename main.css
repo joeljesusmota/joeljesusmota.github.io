@@ -1,3 +1,23 @@
+/******
+bordes
+******/
+
+.bl-s{
+  border-left: solid 1px;
+}
+
+.br-s{
+  border-right: solid 1px rgb(214, 211, 211);
+}
+
+.bb-s{
+  border-bottom: solid 1px rgb(214, 211, 211);
+}
+
+/****
+text
+*****/
+
 .p-w-b {
     color: white;
     background-color: black;

@@ -13,7 +13,7 @@ document.write(`
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="../index.html">Home</a></li>
                         <li class="list-group-item"><a href="../pages/about.html">About</a></li>
-                        <li class="list-group-item"><a href="../pages/blog.html">Blog</a></li>
+                        <li class="list-group-item"><a href="../blog.html">Blog</a></li>
                         <li class="list-group-item"><a href="../pages/gallery.html">Gallery</a></li>
 
                     </ul>
