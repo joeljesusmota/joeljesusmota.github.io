@@ -1,36 +1,48 @@
 # Estructura de contenido:
 update Issues
--  Home
+###  Home
     - [x] Bienbenida
-    - [ ] Servivios
-         - negocio digital
-         - uwp
-    - [ ] Productos
-         - CJC
-         - Sistema escolar
-    - [ ] Andros
-    - [ ] Enlaces
+    - [ ] Carusel
+        //- [ ] AndrosAgency
+        - [ ] XamarinUniverse
+        - [ ] Competencias y proyectos
+    - [x]  Quien soy?
+    //- [ ] Servivios
+    //     - negocio digital
+    //     - uwp
+    //- [ ] Productos
+    //     - CJC
+    //     - Sistema escolar
+    //- [ ] Andros
+    - [ ] Especialidades/Competencias
+        - [ ] Diseño web
+        - [ ] Marketing Digital
+        - [ ] Execel Administrativo
+    - [ ] Mas sobre mi
+    - [ ] JMUiKit
+    - [ ] Enlaces de interes
   
--  Sobre mi 
+###  Sobre mi 
     - [ ] Biografia
     - [ ] Contribuciones
          - XamarinUniverse
     - [ ] Eventos y experiencias
     - [ ] Formacion
 
-- Competencias y proyectos
+### Competencias y proyectos
     - [ ] JoelMotaUiKit
 
-- Blog
-- Galeria  
-- Contactos
+### Blog
+### Galeria  
+### Contactos
 
 - Paginas adicionales: 
     - 
 
 # Contenido:
 
-- [ ] Bienbenida:
+> ### Home
+- [x] Bienbenida:
 
     # Hola! es un gusto que estes aqui :)
 
@@ -43,6 +55,11 @@ update Issues
 
         Sepa mas // enlace a transformacion digital
 
+- [ ] Carusel
+        //- [ ] AndrosAgency
+        - [ ] XamarinUniverse
+        - [ ] Competencias y proyectos
+        
 - [ ] Quien soy?:
 
     Me considero un joven auto didacta apasionado por la tecnologia,
@@ -56,9 +73,9 @@ update Issues
     - Marketing Digital
     - Execel Administrativo
 
-- [ ] JMUiKit
-
 - [ ] Mas sobre mi:
 
     Aprende mas sobre mis proyectos, experiencias...
     
+- [ ] JMUiKit
+- [ ] Enlaces de interes
