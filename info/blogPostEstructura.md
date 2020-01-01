@@ -1,3 +1,13 @@
+ ### post
+
+    - titulo
+    - etiquetas
+    - temas
+    - autor
+    - fecha
+    - Tiempo de lectura
+    - cuerpo
+
 ### blogPost
 
 - Portada
@@ -11,6 +21,8 @@
    
  - Temario
  - Post
+
+
 
       
 

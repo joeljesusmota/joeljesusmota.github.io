@@ -7,12 +7,16 @@ bordes
 }
 
 .br-s{
-  border-right: solid 1px rgb(214, 211, 211);
+  border-right: solid 1px;
 }
 
 .bb-s{
-  border-bottom: solid 1px rgb(214, 211, 211);
+  border-bottom: solid 1px;
 }
+
+.bl-s, .br-s, .bb-s{
+  border-color: rgb(214, 211, 211);
+} 
 
 /****
 text

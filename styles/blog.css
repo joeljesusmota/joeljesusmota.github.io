@@ -10,10 +10,12 @@ section {
     padding-top: 25px;
 }
 
+/*
 .br-s p {
     text-decoration: 15px;
     background: #aaa;
 }
+*/
 
 /*****
 texto
@@ -26,6 +28,30 @@ texto
 .temario-title {
     color: #aaa;
 }
+
+/*****
+post-img
+*****/
+
+.post-img {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.post-img-text {
+    position: absolute;
+    top: 10px;
+    left: 10px; 
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 
 /*****
 sidebar-nav-link
@@ -45,6 +71,15 @@ sidebar-nav-link
     font-size: 22px;
     font-style: italic;
 }
+
+/*****
+upper-left-bar
+*****/
+
+.upper-left-bar {
+    
+}
+
 
 /*******
 barra de lectura
