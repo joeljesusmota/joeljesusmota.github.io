@@ -19,7 +19,7 @@ bordes
 } 
 
 /****
-text
+texto
 *****/
 
 .p-w-b {
@@ -79,6 +79,7 @@ text
 
 
 
+  /*components*/
 
   /* Back to top a*/
 
@@ -114,4 +115,23 @@ text
 	transform: rotate(360deg);
 }
 
+/*carousel content*/
   
+.carouselContent {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.texto-encima {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.centrado {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

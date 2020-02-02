@@ -2,10 +2,10 @@
 update Issues
 ###  Home
     - [x] Bienbenida
-    - [ ] Carusel
-        //- [ ] AndrosAgency
-        - [ ] XamarinUniverse
-        - [ ] Competencias y proyectos
+    // - [ ] Carusel
+    //     //- [ ] AndrosAgency
+    //     - [x] XamarinUniverse
+    //     - [x] Competencias y proyectos
     - [x]  Quien soy?
     //- [ ] Servivios
     //     - negocio digital
@@ -15,7 +15,7 @@ update Issues
     //     - Sistema escolar
     //- [ ] Andros
     - [ ] Especialidades/Competencias
-        - [ ] Diseño web
+        - [ ] Diseño y desarrollo web
         - [ ] Marketing Digital
         - [ ] Execel Administrativo
     - [ ] Mas sobre mi
@@ -36,14 +36,15 @@ update Issues
 ### Galeria  
 ### Contactos
 
-- Paginas adicionales: 
-    - 
 
+- Paginas adicionales: 
+    - ### Glosario o Diccionario
+    
 # Contenido:
 
 > ### Home
 - [x] Bienbenida:
-
+ 
     # Hola! es un gusto que estes aqui :)
 
      ## No te quedes atras en la nueva economia digital!
@@ -57,9 +58,20 @@ update Issues
 
 - [ ] Carusel
         //- [ ] AndrosAgency
+
+        - [x] Competencias y proyectos
+
+            Conece mas de mi y todo lo que podemos crear juntos
+            Diseño web
+            Marketing digital
+            Seo
+
         - [ ] XamarinUniverse
-        - [ ] Competencias y proyectos
-        
+
+            Xamarin universe es un proyecto de codigo abierto que buscar 
+            impulsar a la comunidad a ser profesionales en el desarrollo 
+            móvil
+
 - [ ] Quien soy?:
 
     Me considero un joven auto didacta apasionado por la tecnologia,
@@ -69,9 +81,9 @@ update Issues
 
 - [ ] Especialidades/Competencias:
 
-    - Diseño web
-    - Marketing Digital
-    - Execel Administrativo
+    - [ ] Diseño y desarrollo WEB
+    - [ ] Marketing Digital
+    - [ ] SEO
 
 - [ ] Mas sobre mi:
 
