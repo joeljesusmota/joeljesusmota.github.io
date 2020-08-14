@@ -1,3 +1,0 @@
-## ToDo
-
-- Sematica #Crear #Analisar  
