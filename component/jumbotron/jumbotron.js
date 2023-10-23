@@ -5,7 +5,7 @@ document.write(`
                 <div class="col-sm">
                     <img src="../img/panda1.png" width="30" height="30"><b> Joel Mota</b>
                     <p></p>
-                    <p>© Copyright 2018 - 2019</p>
+                    <p>© Copyright 2023</p>
                     <p></p> 
                 </div>
                 <div class="col-sm">
@@ -13,7 +13,6 @@ document.write(`
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><a href="../index.html">Home</a></li>
                         <li class="list-group-item"><a href="../pages/about.html">About</a></li>
-                        <li class="list-group-item"><a href="../blog.html">Blog</a></li>
                         <li class="list-group-item"><a href="../pages/gallery.html">Gallery</a></li>
 
                     </ul>
