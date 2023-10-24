@@ -31,7 +31,7 @@ document.write(`
                         
                     <a href="https://www.instagram.com/joelmota27" target="_blank"><img src="../img/il.png" style="height: 40px; width: 40px;"></a>
                     <a href="https://twitter.com/joelmota27" target="_blank"><img src="../img/tl.png" style="height: 40px; width: 40px;"></a>
-                    <a href="https://do.linkedin.com/in/joel-jes%C3%BAs-mota-79b058156" target="_blank"><img src="../img/ll.png" style="height: 40px; width: 40px;"></a>
+                    <a href="https://www.linkedin.com/in/joel-mota-79b058156/" target="_blank"><img src="../img/ll.png" style="height: 40px; width: 40px;"></a>
                     <a href="https://www.facebook.com/joelmota27" target="_blank"><img src="../img/fl.png" style="height: 40px; width: 40px;"></a>
                      
 
